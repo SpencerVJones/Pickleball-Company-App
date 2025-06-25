@@ -1,4 +1,8 @@
 # Pickleball-Company-App
+ <div align="left">
+	
+  ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Pickleball-Company-App)
+</div>
 A SwiftUI application that provides information about pickleball tournaments and events. The app includes a side menu for navigation, a home page with information about the company, a blog page with articles about pickleball, and a contact page with information on how to get in touch with the company.
 
 ## Features
